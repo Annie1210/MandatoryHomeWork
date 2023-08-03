@@ -5,7 +5,7 @@ import org.testng.Assert;
 
 /*
  * Given a string  N representing a positive number. The task is to round N to the nearest multiple of 10.
-Note: If you are having two multiple equally apart from N then we will choose the smallest element among them.
+Note: If you are having two multiple equaly apart from N then we will choose the smallest element among them.
 
  
 
