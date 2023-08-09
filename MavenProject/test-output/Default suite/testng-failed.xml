@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Week1Day1.RemoveElements">
+      <class name="SDET_Programs.BuyandSellStock">
         <methods>
           <include name="test1"/>
         </methods>
-      </class> <!-- Week1Day1.RemoveElements -->
+      </class> <!-- SDET_Programs.BuyandSellStock -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
